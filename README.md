@@ -28,7 +28,7 @@ I build game-ready characters, props, and environments — and I also make web p
 
 ## Featured work
 
-A sneaker study from [3d-works](https://github.com/Dragodar02/3d-works), plus pieces from my [portfolio](https://dragodar02.github.io/MySuperSite/).
+A sneaker study from [3d-works](https://github.com/Dragodar02/3d-works). More on my [portfolio](https://dragodar02.github.io/MySuperSite/).
 
 <p align="center">
   <a href="https://github.com/Dragodar02/3d-works">
@@ -42,26 +42,6 @@ A sneaker study from [3d-works](https://github.com/Dragodar02/3d-works), plus pi
   <a href="https://github.com/Dragodar02/3d-works">
     <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/sneaker-angle-right.jpg" alt="Sneaker — front three-quarter" width="405">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://dragodar02.github.io/MySuperSite/">
-    <img src="https://raw.githubusercontent.com/Dragodar02/MySuperSite/main/assets/img/bust-beauty.webp" alt="Cyber Samurai — render" width="270">
-  </a>
-  <a href="https://dragodar02.github.io/MySuperSite/">
-    <img src="https://raw.githubusercontent.com/Dragodar02/MySuperSite/main/assets/img/prop-beauty.webp" alt="Hard Surface Props — render" width="270">
-  </a>
-  <a href="https://dragodar02.github.io/MySuperSite/">
-    <img src="https://raw.githubusercontent.com/Dragodar02/MySuperSite/main/assets/img/env-beauty.webp" alt="Sci-Fi Outpost — render" width="270">
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Cyber Samurai · Hard Surface Props · Sci-Fi Outpost
-    &nbsp;·&nbsp;
-    <a href="https://dragodar02.github.io/MySuperSite/">Open the full portfolio</a>
-  </sub>
 </p>
 
 ## Projects
