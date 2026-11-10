@@ -53,7 +53,10 @@ A selection from [3d-works](https://github.com/Dragodar02/3d-works). More on my 
 </p>
 <p align="center">
   <a href="https://github.com/Dragodar02/3d-works">
-    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/lens-hutsul-preview.gif" alt="HUTSUL 3.2 lens camera move" width="820">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/mouse-character.jpg" alt="Mouse character in glasses" width="405">
+  </a>
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/lens-hutsul-preview.gif" alt="HUTSUL 3.2 lens camera move" width="405">
   </a>
 </p>
 
