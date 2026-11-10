@@ -28,7 +28,7 @@ I build game-ready characters, props, and environments — and I also make web p
 
 ## Featured work
 
-A sneaker study from [3d-works](https://github.com/Dragodar02/3d-works). More on my [portfolio](https://dragodar02.github.io/MySuperSite/).
+A selection from [3d-works](https://github.com/Dragodar02/3d-works). More on my [portfolio](https://dragodar02.github.io/MySuperSite/).
 
 <p align="center">
   <a href="https://github.com/Dragodar02/3d-works">
@@ -37,16 +37,29 @@ A sneaker study from [3d-works](https://github.com/Dragodar02/3d-works). More on
 </p>
 <p align="center">
   <a href="https://github.com/Dragodar02/3d-works">
-    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/sneaker-clay-wire.jpg" alt="Sneaker — clay and wireframe" width="405">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/lens-hutsul.jpg" alt="HUTSUL 3.2 lens — Kosiv.ZS" width="405">
   </a>
   <a href="https://github.com/Dragodar02/3d-works">
-    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/sneaker-angle-right.jpg" alt="Sneaker — front three-quarter" width="405">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/mushroom-character.jpg" alt="Mushroom character on a rock" width="405">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/nike-fabric.jpg" alt="Dark Nike-swoosh fabric" width="405">
+  </a>
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/nike-headphones-preview.gif" alt="Nike headphones turntable" width="405">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/lens-hutsul-preview.gif" alt="HUTSUL 3.2 lens camera move" width="820">
   </a>
 </p>
 
 ## Projects
 
 - **[Portfolio site](https://dragodar02.github.io/MySuperSite/)** — live site ([source](https://github.com/Dragodar02/MySuperSite))
-- **[3d-works](https://github.com/Dragodar02/3d-works)** — Blender scenes and renders, starting with the sneaker
+- **[3d-works](https://github.com/Dragodar02/3d-works)** — Blender scenes, renders, and turntables
 - **[CyberiadaMainGame](https://github.com/KUL-of-Duty/CyberiadaMainGame)** — KUL team game for Cyberiada 2025/2026
 - **[GameJam26032026](https://github.com/KUL-of-Duty/GameJam26032026)** — KUL-of-Duty game jam project
