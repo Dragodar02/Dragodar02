@@ -50,9 +50,3 @@ A sneaker study from [3d-works](https://github.com/Dragodar02/3d-works). More on
 - **[3d-works](https://github.com/Dragodar02/3d-works)** — Blender scenes and renders, starting with the sneaker
 - **[CyberiadaMainGame](https://github.com/KUL-of-Duty/CyberiadaMainGame)** — KUL team game for Cyberiada 2025/2026
 - **[GameJam26032026](https://github.com/KUL-of-Duty/GameJam26032026)** — KUL-of-Duty game jam project
-
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dragodar02&show_icons=true&theme=transparent&hide_border=true&count_private=false" alt="GitHub stats for Dragodar02">
-</div>
