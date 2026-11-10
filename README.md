@@ -37,6 +37,30 @@ A selection from [3d-works](https://github.com/Dragodar02/3d-works). More on my 
 </p>
 <p align="center">
   <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/fox-beauty.jpg" alt="Stylized fox figurine" width="405">
+  </a>
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/miners-beauty.jpg" alt="Two miner characters holding gems" width="405">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/mushroom-boss.jpg" alt="Cyberiada mushroom boss" width="405">
+  </a>
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/grenade-beauty.jpg" alt="Character grenade" width="405">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/grass-beauty.jpg" alt="Stylized grass patch" width="405">
+  </a>
+  <a href="https://github.com/Dragodar02/3d-works">
+    <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/helicopter-beauty.jpg" alt="Helicopter — studio clay" width="405">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Dragodar02/3d-works">
     <img src="https://raw.githubusercontent.com/Dragodar02/3d-works/main/renders/lens-hutsul.jpg" alt="HUTSUL 3.2 lens — Kosiv.ZS" width="405">
   </a>
   <a href="https://github.com/Dragodar02/3d-works">
